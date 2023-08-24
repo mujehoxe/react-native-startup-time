@@ -35,7 +35,7 @@
   },
   "homepage": "https://github.com/doomsower/react-native-startup-time#readme",
   "peerDependencies": {
-    "react": "^16.8.3",
+    "react": "^18.2.0",
     "react-native": ">=0.59.0"
   },
   "devDependencies": {
